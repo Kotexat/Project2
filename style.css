@@ -1,0 +1,36 @@
+.Header1{
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.Nav1{
+    width: 30%;
+    margin-left: 300px;
+}
+.Ul1{
+    display: flex;
+    justify-content: space-around ;
+
+    
+}
+.Li1{
+    text-decoration: underline blue;
+
+}
+.Title1{
+    font-size: 50px;
+    font-style: bold;
+}
+.div1{
+    width: 150px;
+    height: 35px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 100px;
+}
