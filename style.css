@@ -1,65 +1,33 @@
-.Header1{
-    width: 100vw;
-    height: 50px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
 
+.container{
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
 }
-.Nav1{
-    width: 30%;
-    margin-left: 300px;
-}
-.Ul1{
+header{
+    width: 80%;
     display: flex;
-    justify-content: space-around ;
-
     
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
 }
-.Li1{
-    text-decoration: underline blue;
+.ul1{
+    display: flex;
+}
+
+
+li{
+    margin-right: 20px;
+}
+.section1 {
+    width: 80%;
+    margin: 0 auto;
+}
+.image1{
+    width: 100%;
 
 }
-.Title1{
-    font-size: 50px;
-    font-style: bold;
-    margin-left: 130px;
-}
-.Button1{
-    width: 150px;
-    height: 35px;
-    border: 1px solid black;
-    border-radius: 50px;
-    border: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-right: 100px;
-}
-.Section1{
-    display: flex;
-    flex-direction: column;
-    margin-top: 200px;
-    margin-left: 130px;
-}
-.Title2{
-    font-size: 50px;
-    font-style: bold;
     
-}
-.Text1{
-    width: 600px;
-    margin-top: 56px;
-}
-.Button2{
-    width: 200px;
-    height: 70px;
-    background-color: #72A1FF;
-    color: white;
-    border: none;
-    border-radius: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 30px;
-}
+    
+
