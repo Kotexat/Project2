@@ -31,13 +31,14 @@ li{
 .section2{
     width: 80%;
     margin: 0 auto;
-    border: solid black 1px;
+    
     margin-top: 50px;
 }
 .maindiv{
     width: 100%;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .section2 div div{
     max-width: 400px;
@@ -47,6 +48,31 @@ li{
 }
 .section2 div div img{
     width: 100%;
+}
+.section3{
+    width: 80%;
+    margin: 0 auto;
+    
+    margin-top: 80px;
+}
+.section3 div div{
+    max-width: 400px;
+    width: 100%;
+    
+
+}
+.section3 div div img{
+    width: 100%;
+}
+h4{
+    margin-top: 20px;
+}
+
+p{
+    margin-top: 20px;
+}
+.div1{
+    min-width: 300px;
 }
 
     
